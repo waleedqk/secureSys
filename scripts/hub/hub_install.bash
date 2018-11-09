@@ -53,6 +53,7 @@ APP_LIST=(
     openssh-client
     openssh-server
     packeth
+    raspi-gpio
     screen
     ssh
     sshfs
